@@ -45,37 +45,37 @@ public class BookShopApplication {
                     1,
                     IsbnGenerator.generate(),
                     "Oliver Twist","Excellent",
-                    50.3,20,"https://source.unsplash.com/400x300/?hiking"
+                    50.3,20,"https://source.unsplash.com/400x300/?nature"
             );
             Book book2 = new Book(
                     2,
                     IsbnGenerator.generate(),
                     "Great Expectations","Good Choice",
-                    30.9,20,"https://source.unsplash.com/400x300/?hiking"
+                    30.9,20,"https://source.unsplash.com/400x300/?food"
             );
             Book book3 = new Book(
                     3,
                     IsbnGenerator.generate(),
                     "Blead House","Nice",
-                    49.9,20,"https://source.unsplash.com/400x300/?hiking"
+                    49.9,20,"https://source.unsplash.com/400x300/?drink"
             );
             Book book4 = new Book(
                     4,
                     IsbnGenerator.generate(),
                     "Under The GreenWood Tree","Excellent",
-                    27.9,20,"https://source.unsplash.com/400x300/?hiking"
+                    27.9,20,"https://source.unsplash.com/400x300/?People"
             );
             Book book5 = new Book(
                     5,
                     IsbnGenerator.generate(),
                     "Return of the Native Expectations","Good Choice",
-                    32.9,20,"https://source.unsplash.com/400x300/?hiking"
+                    32.9,20,"https://source.unsplash.com/400x300/?forest"
             );
             Book book6 = new Book(
                     6,
                     IsbnGenerator.generate(),
                     "Far From The Maddening Crowd","Good Choice",
-                    40.9,20,"https://source.unsplash.com/400x300/?hiking"
+                    40.9,20,"https://source.unsplash.com/400x300/?Animals"
             );
 
             // mapping
